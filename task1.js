@@ -1,5 +1,5 @@
 function round(n){
-    return n.toFixed(n);
+    return n.toFixed(2);
 }
 
 function reverseWords(str){
